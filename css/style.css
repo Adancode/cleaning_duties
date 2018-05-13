@@ -1,0 +1,16 @@
+.firstTD {
+    width: 140px;
+}
+
+#monthlyDutiesTable {
+    text-align: left;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+#resetMonthlyDutiesButtonWrapperDiv {
+    width: 160px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
