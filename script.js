@@ -84,7 +84,7 @@ $(document).ready(function () {
     // $("tbody").append("haha");
 });
 
-console.log(monthlySchedule);
+// console.log(monthlySchedule);
 
 
 
