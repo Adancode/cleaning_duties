@@ -45,7 +45,7 @@ function resetDuties() {
     //     monthlySchedule[tenants[i]] = duties[i];
     //     //$("tbody").append("<tr><td>" +  + "</td></tr>");
     // }
-    duties.push("Take trash out to curb on Sundays and back inside on Mondays");
+    duties.push("Take trash out to curb on Sundays and back inside on Mondays.");
     tenants.push("Samuel Guebara");
 
     for (var i = 0; i < duties.length; i++) {
