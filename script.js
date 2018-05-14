@@ -1,5 +1,5 @@
 console.log("connected");
-var duties = ["Wipe down UPstairs bathroom floor, sink, and toilet.", "Spray tub & tub walls with anti-mildew spray and scrub down.", "Sweep downstairs, mop specific spots if needed, don't mop everything (dangerous, slippery), only specific spots.", "Wipe down DOWNstairs bathroom floor, sink, and toilet.", "Make sure dishes don't pile up, and if possible, let me know who doesn't clean their own dishes.", "Check dryer filter (every week), wipe down stove/counters, and check fridges for expired items, chuck if needed"];
+var duties = ["Wipe down UPstairs bathroom floor, sink, and toilet.", "Spray tub & tub walls with anti-mildew spray and scrub down.", "Sweep downstairs, mop specific spots if needed, don't mop everything (dangerous, slippery), only specific spots.", "Wipe down DOWNstairs bathroom floor, sink, and toilet.", "Make sure dishes don't pile up, and if possible, let me know who doesn't clean their own dishes.", "Check dryer filter (every week), wipe down stove/counters, and check fridges for expired items, chuck if needed."];
 
 var tenants = ["Joshua Hawley", "David Sharp", "Benjamin Frei", "Jordan Green", "Imack Laidera", "Justin Sallese"];
 
