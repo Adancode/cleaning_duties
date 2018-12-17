@@ -86,5 +86,7 @@ $(document).ready(function () {
 
 // console.log(monthlySchedule);
 
+// Adding a note to test github after Mojave update.
+
 
 
