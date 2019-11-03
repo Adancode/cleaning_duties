@@ -33,7 +33,7 @@ shuffle(tenants);
 
 //  An object holding all the duties
 // var monthlySchedule = {
-//     "Samuel Guebara": "Take trash out to curb on Sundays and back inside on Mondays"
+//     "Samuel Guebara": "Take trash out to curb on Sundays and back inside on Mondays."
 // }
 
 function resetDuties() {
