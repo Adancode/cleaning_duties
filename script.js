@@ -1,7 +1,7 @@
 console.log("connected");
 var duties = ["Wipe down UPstairs bathroom floor, sink, and toilet.  Empty that bathroom's trash if lid can't swing freely.", "Check downstairs & upstairs hallway air filters. Replace filters if needed (filters in pantry, install with arrow pointing in direction of airflow/into wall). Use small step ladder in pantry if needed.", "Sweep downstairs, mop specific spots if needed, don't mop everything (dangerous, slippery), only specific spots.", "Wipe down DOWNstairs bathroom floor, sink, and toilet.  Empty that bathroom's trash if lid can't swing freely.", "Keep kitchen sink filters clean (replace filters if needed, spare filters under sink). Make sure dishes don't pile up, and if possible let Adan know if anyone doesn't clean their own dishes. Note that dishes are 'wash as you go,' so there should be no dishes in sink, but if there is, we need to know who's leaving dishes in sink, as that's the #1 cause of roommate conflict.", "Check dryer filter (every week), wipe down stove/counters, and check fridges for expired items, chuck expired items."];
 
-var tenants = ["Joshua Hawley", "Yanji Chen", "Benjamin Frei", "James Duffy", "Placeholder Mstr Bedroom", "Justin Sallese"];
+var tenants = ["Joshua Hawley", "Yanji Chen", "Benjamin Frei", "James Duffy", "Adam Camacho", "Justin Sallese"];
 
 function shuffle(array) {
     var currentIndex = array.length, temporaryValue, randomIndex;
